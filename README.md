@@ -33,8 +33,6 @@ I'm a passionate Java developer who turns coffee ☕ into scalable, robust code.
 
 ---
 
-🎮 **Contribution Snake Animation**:
-
 ![Snake animation](https://github.com/RiceChuan/RiceChuan/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
