@@ -32,10 +32,6 @@ I'm a passionate Java developer who turns coffee ☕ into scalable, robust code.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RiceChuan&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
----
-https://raw.githubusercontent.com/RiceChuan/RiceChuan/main/github-contribution-grid-snake.svg#gh-light-mode-only
-
----
 
 💡 **Activity Graph**:
 
